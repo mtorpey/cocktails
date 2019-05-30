@@ -1,0 +1,510 @@
+Alexander
+After-dinner cocktail
+Brandy
+Crème de cacao (brown)
+Cream
+
+Americano
+Before-dinner cocktail
+Campari
+Red Vermouth
+Soda water
+
+Angel Face
+All-day cocktail
+Calvados
+Gin
+Apricot brandy
+
+Aviation
+All-day cocktail
+Gin
+Maraschino
+Lemon juice
+
+Bacardi
+Before-dinner cocktail
+White rum
+Lime juice
+Grenadine
+
+Between the Sheets
+All-day cocktail
+Brandy
+White rum
+Triple sec
+Lemon juice
+
+Casino
+All-day cocktail
+Gin
+Maraschino
+Orange bitters
+Lemon juice
+
+Clover Club
+All-day cocktail
+Gin
+Raspberry syrup
+Lemon juice
+Egg white
+
+Daiquiri
+Before-dinner cocktail
+White rum
+Simple syrup
+Lime juice
+
+Derby
+All-day cocktail
+Gin
+Peach bitters
+Mint
+
+Dry martini
+Before-dinner cocktail
+Gin
+Dry Vermouth
+
+Gin Fizz
+Longdrink
+Gin
+Simple syrup
+Lemon juice
+Soda water
+
+John Collins
+Longdrink
+Gin
+Simple syrup
+Lemon juice
+Soda water
+
+Manhattan
+Before-dinner cocktail
+Rye whiskey
+Red Vermouth
+Angostura bitters
+
+Mary Pickford
+All-day cocktail
+White rum
+Maraschino
+Grenadine
+Pineapple juice
+
+Monkey Gland
+All-day cocktail
+Gin
+Orange juice
+Absinth
+Grenadine
+
+Negroni
+Before-dinner cocktail
+Gin
+Campari
+Red Vermouth
+
+Old-fashioned
+Before-dinner cocktail
+Rye whiskey
+Angostura bitters
+Sugar cube
+
+Paradise
+All-day cocktail
+Gin
+Apricot brandy
+Orange juice
+
+Planter's Punch
+Longdrink
+Dark rum
+Orange juice
+Pineapple juice
+Lemon juice
+Grenadine
+Simple syrup
+Angostura bitters
+
+Porto Flip
+After-dinner cocktail
+Brandy
+Red Port
+Egg yolk
+
+Ramos Gin Fizz
+Longdrink
+Gin
+Simple syrup
+Lime juice
+Lemon juice
+Cream
+Egg white
+Orange flower water
+Vanilla extract
+
+Rusty Nail
+After-dinner cocktail
+Scotch whisky
+Drambuie
+
+Sazerac
+After-dinner cocktail
+Brandy
+Absinth
+Sugar cube
+Peychaud's bitters
+
+Screwdriver
+All-day cocktail
+Vodka
+Orange juice
+
+Sidecar
+All-day cocktail
+Brandy
+Triple sec
+Lemon juice
+
+Stinger
+After-dinner cocktail
+Brandy
+Crème de menthe (white)
+
+Tuxedo
+All-day cocktail
+Gin
+Dry Vermouth
+Maraschino
+Absinth
+Orange bitters
+
+Whiskey sour
+Before-dinner cocktail
+Bourbon whiskey
+Simple syrup
+Lemon juice
+Egg white
+
+White Lady
+All-day cocktail
+Gin
+Triple sec
+Lemon juice
+
+Bellini
+Sparkling cocktail
+Sparkling white wine
+Peach puree
+
+Black Russian
+After-dinner cocktail
+Vodka
+Coffee liqueur
+
+Bloody Mary
+Longdrink
+Vodka
+Tomato juice
+Lemon juice
+Worcestershire sauce
+Tabasco
+Celery salt
+Pepper
+
+Caipirinha
+Longdrink
+Cachaça
+Lime
+Sugar
+
+Champagne cocktail
+Sparkling cocktail
+Sparkling white wine
+Brandy
+Angostura bitters
+Sugar cube
+
+Cosmopolitan
+All-day cocktail
+Citron vodka
+Triple sec
+Cranberry juice
+Lime juice
+
+Cuba Libre
+Longdrink
+White rum
+Cola
+Lime juice
+
+French 75
+Sparkling cocktail
+Gin
+Lemon juice
+Simple syrup
+Sparkling white wine
+
+French Connection
+After-dinner cocktail
+Brandy
+Amaretto
+
+Godfather
+After-dinner cocktail
+Scotch whisky
+Amaretto
+
+Godmother
+After-dinner cocktail
+Vodka
+Amaretto
+
+Golden Dream
+After-dinner cocktail
+Galliano
+Triple sec
+Orange juice
+Cream
+
+Grasshopper
+After-dinner cocktail
+Crème de cacao (white)
+Crème de menthe (green)
+Cream
+
+Harvey Wallbanger
+All-day cocktail
+Vodka
+Galliano
+Orange juice
+
+Hemingway special
+All-day cocktail
+White rum
+Maraschino
+Grapefruit juice
+Lime juice
+
+Horse's Neck
+Longdrink
+Brandy
+Ginger ale
+Angostura bitters
+
+Irish Coffee
+Hot Drink
+Irish whiskey
+Coffee
+Cream
+Brown sugar
+
+Kir
+Before-dinner cocktail
+Dry white wine
+Crème de cassis
+
+Long Island Iced Tea
+Longdrink
+Gin
+Tequila
+Vodka
+White rum
+Triple sec
+Simple syrup
+Lemon juice
+Cola
+
+Mai Tai
+Longdrink
+White rum
+Dark rum
+Orange Curaćao
+Orgeat syrup
+Lime juice
+
+Margarita
+All-day cocktail
+Tequila
+Triple sec
+Lime juice
+
+Mimosa
+Sparkling cocktail
+Sparkling white wine
+Orange juice
+
+Mint Julep
+Longdrink
+Bourbon whiskey
+Mint
+Sugar
+Water
+
+Mojito
+Longdrink
+White rum
+Lime juice
+Mint
+Sugar
+Soda water
+
+Moscow Mule
+Longdrink
+Vodka
+Ginger beer
+Lime juice
+Lime
+
+Pina Colada
+Longdrink
+White rum
+Pineapple juice
+Coconut cream
+
+Rose
+After-dinner cocktail
+Kirsch
+Dry Vermouth
+Strawberry syrup
+
+Sea Breeze
+Longdrink
+Vodka
+Cranberry juice
+Grapefruit juice
+
+Sex on the Beach
+Longdrink
+Vodka
+Peach schnapps
+Cranberry juice
+Orange juice
+
+Singapore Sling
+Longdrink
+Gin
+Cherry brandy
+Triple sec
+DOM Bénédictine
+Grenadine
+Pineapple juice
+Lime juice
+Angostura bitters
+
+Tequila Sunrise
+Longdrink
+Tequila
+Orange juice
+Grenadine
+
+B52
+After-dinner cocktail
+Orange Curaćao
+Baileys
+Coffee liqueur
+
+Barracuda
+Sparkling cocktail
+Gold rum
+Galliano
+Pineapple juice
+Lime juice
+Sparkling white wine
+
+Bramble
+All-day cocktail
+Gin
+Simple syrup
+Lemon juice
+Blackberry liqueur
+
+Dark 'n' Stormy
+Longdrink
+Dark rum
+Ginger beer
+
+Dirty martini
+Before-dinner cocktail
+Vodka
+Dry Vermouth
+Olive juice
+
+Espresso martini
+After-dinner cocktail
+Vodka
+Coffee liqueur
+Simple syrup
+Espresso
+
+French martini
+Before-dinner cocktail
+Vodka
+Raspberry liqueur
+Pineapple juice
+
+Kamikaze
+All-day cocktail
+Vodka
+Triple sec
+Lime juice
+
+Lemon Drop martini
+All-day cocktail
+Vodka Citron
+Triple sec
+Lemon juice
+
+Pisco sour
+All-day cocktail
+Pisco
+Simple syrup
+Lemon juice
+Egg white
+
+Russian Spring punch
+Sparkling cocktail
+Vodka
+Crème de cassis
+Simple syrup
+Lemon juice
+
+Spritz Veneziano
+Sparkling cocktail
+Sparkling white wine
+Aperol
+Soda water
+
+Tommy's Margarita
+All-day cocktail
+Tequila
+Lime juice
+Agave nectar
+
+Vampiro
+Longdrink
+Tequila
+Tomato juice
+Orange juice
+Lime juice
+Honey
+Onion
+Chili peppers
+Worcestershire sauce
+Salt
+
+Vesper
+Before-dinner cocktail
+Gin
+Vodka
+Lillet Blonde
+Lemon
+
+Yellow Bird
+All-day cocktail
+White rum
+Galliano
+Triple sec
+Lime juice

@@ -1,7 +1,7 @@
 # Cocktail recipe script
 
 - `recipes.txt`: fragments of cocktail recipes scraped from the IBA website
-- `simple.txt`: cocktail recipes in the form <name type ingredients blankline>
+- `simple.txt`: cocktail recipes in the form `name type ingredients blankline`
 - `my-ingredients.txt`: a list of cocktail ingredients you have at home
 - `find-drinks.py`: Python script that tells you what drinks you can make and
   what ingredients you should buy

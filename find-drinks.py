@@ -37,13 +37,11 @@ if len(unknown_ingredients) > 0:
 # Find all valid drinks
 print('Finding recipes you can make...\n')
 drinks = []
-enablers = []
 for recipe in recipes:
-    missing = [i for i in recipe['ingredients'] if i not in my_ingredients]
-    if len(missing) == 0:
+    recipe['missing'] = {i for i in recipe['ingredients']
+                         if i not in my_ingredients}
+    if len(recipe['missing']) == 0:
         drinks.append(recipe)
-    elif len(missing) == 1:
-        enablers.append((missing[0], recipe['name']))
 types = {drink['type'] for drink in drinks}
 for type in sorted(types):
     print(type.upper() + 'S:')
@@ -53,10 +51,12 @@ for type in sorted(types):
 
 # Find enabling ingredients
 to_buy = {}
-for ing in {e[0] for e in enablers}:
-    to_buy[ing] = []
-for e in enablers:
-    to_buy[e[0]].append(e[1])
+for recipe in recipes:
+    if len(recipe['missing']) == 1:
+        to_buy[next(iter(recipe['missing']))] = []
+for recipe in recipes:
+    if len(recipe['missing']) == 1:
+        to_buy[next(iter(recipe['missing']))].append(recipe['name'])
 print('\nGOOD INGREDIENTS TO BUY:')
 for tb in sorted(to_buy, key=(lambda i: [-len(to_buy[i]), i])):
     print('  (' + str(len(to_buy[tb])) + ') ' + tb + ' - ' + ', '.join(to_buy[tb]))

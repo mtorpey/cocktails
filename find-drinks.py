@@ -59,6 +59,6 @@ for ing in set([e[0] for e in enablers]):
 for e in enablers:
     to_buy[e[0]].append(e[1])
 print('\nGOOD INGREDIENTS TO BUY:')
-for tb in sorted(to_buy, key=(lambda i: len(to_buy[i])), reverse=True):
+for tb in sorted(to_buy, key=(lambda i: [-len(to_buy[i]), i])):
     print('  (' + str(len(to_buy[tb])) + ') ' + tb + ' - ' + ', '.join(to_buy[tb]))
 

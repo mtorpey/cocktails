@@ -8,11 +8,10 @@ for recipe in L:
     recipes.append(dict(name=recipe[0], type=recipe[1], ingredients=recipe[2:]))
 
 # Get the ingredients
-ingredients = []
+ingredients = set()
 for recipe in recipes:
     for ing in recipe['ingredients']:
-        ingredients.append(ing)
-ingredients = set(ingredients)
+        ingredients.add(ing)
 print('Got', len(recipes), 'recipes using',
       len(ingredients), 'ingredients from simple.txt')
 
@@ -45,7 +44,7 @@ for recipe in recipes:
         drinks.append(recipe)
     elif len(missing) == 1:
         enablers.append((missing[0], recipe['name']))
-types = set([drink['type'] for drink in drinks])
+types = {drink['type'] for drink in drinks}
 for type in sorted(types):
     print(type.upper() + 'S:')
     for drink in drinks:
@@ -54,7 +53,7 @@ for type in sorted(types):
 
 # Find enabling ingredients
 to_buy = {}
-for ing in set([e[0] for e in enablers]):
+for ing in {e[0] for e in enablers}:
     to_buy[ing] = []
 for e in enablers:
     to_buy[e[0]].append(e[1])

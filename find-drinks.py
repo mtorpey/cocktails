@@ -90,18 +90,19 @@ def best_covers(sets, size):
 incomplete_recipes = [recipe for recipe in recipes if len(recipe['missing']) > 0]
 missing_sets = [recipe['missing'] for recipe in incomplete_recipes]
 
-# Find enabling ingredients
-print("\nIF YOU'RE BUYING ONE INGREDIENT:")
-best = all_covers(missing_sets, 1)
-for s in best:
-    allows = [recipe['name'] for recipe in incomplete_recipes
-              if all([ing in s for ing in recipe['missing']])]
-    print('  (' + str(len(allows)) + ') ' + ', '.join(sorted(s)) + ' - ' + ', '.join(allows))
+def print_covers(covers):
+    n = len(covers[0])
+    if n==1:
+        plural = ''
+    else:
+        plural = 'S'
+    print("\nIF YOU'RE BUYING", n, "INGREDIENT" + plural + ":")
+    for s in covers:
+        allows = [recipe['name'] for recipe in incomplete_recipes
+                  if all([ing in s for ing in recipe['missing']])]
+        print('  (' + str(len(allows)) + ') ' + ', '.join(sorted(s)) + ' - ' + ', '.join(allows))
 
-# Find ingredient sets
-print("\nIF YOU'RE BUYING TWO INGREDIENTS:")
-best = best_covers(missing_sets, 2)
-for s in best:
-    allows = [recipe['name'] for recipe in incomplete_recipes
-              if all([ing in s for ing in recipe['missing']])]
-    print('  (' + str(len(allows)) + ') ' + ', '.join(sorted(s)) + ' - ' + ', '.join(allows))
+
+print_covers(all_covers(missing_sets, 1))
+print_covers(best_covers(missing_sets, 2))
+print_covers(best_covers(missing_sets, 3))

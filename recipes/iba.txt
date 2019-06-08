@@ -97,7 +97,7 @@ Monkey Gland
 All-day cocktail
 Gin
 Orange juice
-Absinth
+Absinthe
 Grenadine
 
 Negroni
@@ -153,7 +153,7 @@ Drambuie
 Sazerac
 After-dinner cocktail
 Brandy
-Absinth
+Absinthe
 Sugar cube
 Peychaud's bitters
 
@@ -178,7 +178,7 @@ All-day cocktail
 Gin
 Dry Vermouth
 Maraschino
-Absinth
+Absinthe
 Orange bitters
 
 Whiskey sour
@@ -341,7 +341,6 @@ Longdrink
 Bourbon whiskey
 Mint
 Sugar
-Water
 
 Mojito
 Longdrink

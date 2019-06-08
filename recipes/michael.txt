@@ -1,0 +1,147 @@
+Rob Roy
+Before-dinner cocktail
+Scotch whisky
+Red Vermouth
+Angostura bitters
+
+Kir Royale
+Sparkling cocktail
+Sparkling white wine
+Crème de cassis
+
+Kir Impérial
+Sparkling cocktail
+Sparkling white wine
+Raspberry liqueur
+
+Amaretto Sour
+All-day cocktail
+Amaretto
+Lemon juice
+Simple syrup
+
+Berlin Sour
+All-day cocktail
+Vodka
+Apple juice
+Waldmeister syrup
+Lime juice
+Absinthe
+
+Ward Eight
+All-day cocktail
+Rye whiskey
+Orange juice
+Lemon juice
+Grenadine
+
+Sir Walter
+Before-dinner cocktail
+Brandy
+Gold rum
+Triple sec
+Lemon juice
+Grenadine
+
+Embassy
+Before-dinner cocktail
+Brandy
+Gold rum
+Triple sec
+Lime juice
+Simple syrup
+
+Jamaica Honey Bee
+All-day cocktail
+Gold rum
+Lemon juice
+Honey
+
+Brandy Milk Punch
+After-dinner cocktail
+Milk
+Cream
+Brandy
+Simple syrup
+Vanilla extract
+Nutmeg
+
+Suffragette
+Before-dinner cocktail
+Sloe gin
+Dry Vermouth
+Red Vermouth
+
+Perfect Martini
+Before-dinner cocktail
+Gin
+Dry Vermouth
+Red Vermouth
+
+Cinnamon butter rum
+Hot drink
+Gold rum
+Butter
+Sugar
+Cinnamon
+
+Mapletini
+After-dinner cocktail
+Vodka
+Bourbon whiskey
+Maple syrup
+
+Ms Villa
+Before-dinner cocktail
+Clementine gin
+Campari
+Scotch whisky
+Tonic water
+
+Last stop
+Hot drink
+Sherry
+Campari
+Agave nectar
+Lemon juice
+Tea
+
+Michelada
+Longdrink
+Lager
+Lime juice
+Tabasco
+Worcestershire sauce
+
+Roy Rogers
+Longdrink
+Cola
+Grenadine
+
+Tequila Mojito
+Longdrink
+Tequila
+Lime juice
+Mint
+Agave nectar
+Soda water
+
+Canal Water
+Longdrink
+Vodka
+Jägermeister
+Orange juice
+Cranberry juice
+Cola
+
+Bed of Roses
+All-day cocktail
+Lemon juice
+Jägermeister
+Grenadine
+Lime juice
+
+Shirley Temple
+Longdrink
+Ginger ale
+Grenadine

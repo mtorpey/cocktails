@@ -1,8 +1,7 @@
 # Cocktail recipe script
 
-- `recipes.txt`: fragments of cocktail recipes scraped from the IBA website
-- `simple.txt`: cocktail recipes in the form `name type ingredients blankline`
-- `my-ingredients.txt`: a list of cocktail ingredients you have at home
+- `human recipes.txt`: fragments of cocktail recipes scraped from the IBA website
+- `recipes/*.txt`: cocktail recipes in the form `name type ingredients blankline`
 - `find-drinks.py`: Python script that tells you what drinks you can make and
   what ingredients you should buy
     
@@ -13,6 +12,7 @@ can buy to allow new drinks.  It will also notify you of any ingredients it
 doesn't recognise (case sensitive).
 
 - `ingredients.out`: a list of recognised ingredients (generated whenever you
-  run `find-drinks.py`)
+  run `find-drinks.py`) - you might want to copy ingredients from here when you
+  make `my-ingredients.txt`
 
 Requires Python 3.

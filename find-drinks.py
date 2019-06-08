@@ -1,7 +1,18 @@
 #!/usr/bin/env python3
 
+from os import listdir
+
 # Get the simplified recipes
-L = [r.split('\n') for r in open('simple.txt', 'r').read().strip().split('\n\n')]
+cookbooks = listdir('recipes')
+L = []
+n = 0
+info = []
+print('Reading recipes directory...')
+for fname in cookbooks:
+    book = [r.split('\n')
+            for r in open('recipes/' + fname, 'r').read().strip().split('\n\n')]
+    print(' ', fname + ':', len(book), 'recipes')
+    L += book
 L = sorted(L)
 recipes = []
 for recipe in L:
@@ -12,8 +23,9 @@ ingredients = set()
 for recipe in recipes:
     for ing in recipe['ingredients']:
         ingredients.add(ing)
-print('Got', len(recipes), 'recipes using',
-      len(ingredients), 'ingredients from simple.txt')
+print('Total', len(recipes), 'recipes using',
+      len(ingredients), 'ingredients from',
+      len(cookbooks), 'files')
 
 # Write the ingredients
 f = open('ingredients.out', 'w')

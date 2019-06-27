@@ -117,4 +117,3 @@ def print_covers(covers):
 
 print_covers(all_covers(missing_sets, 1))
 print_covers(best_covers(missing_sets, 2))
-print_covers(best_covers(missing_sets, 3))
